@@ -276,14 +276,7 @@ h1,h2,h3,h4,h5 {
 .practychna__s{
     text-decoration: none;
  
-.inner__1{
-    margin-left:15px;
-    float: left;
-}
-    .inner__2{
-    float: left;
-    }
-  
+
 }
 .practychna__s:active .portfolios{
 }
